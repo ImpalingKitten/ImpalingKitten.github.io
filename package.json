@@ -1,0 +1,16 @@
+{
+  "name": "observer",
+  "version": "1.0.0",
+  "description": "A procedural first-person puzzle platformer where reality only exists when observed.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "three": "^0.165.0",
+    "vite": "^5.4.0"
+  },
+  "devDependencies": {}
+}
